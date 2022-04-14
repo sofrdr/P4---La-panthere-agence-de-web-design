@@ -751,7 +751,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -773,7 +773,8 @@ h4 {
 }
 
 .tc-white {
-    color: #fff!important;
+    color: #F3976C!important;
+    font-weight: 600;
 }
 
 .tc-black{

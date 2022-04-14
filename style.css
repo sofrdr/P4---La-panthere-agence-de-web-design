@@ -457,7 +457,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+    color: #000;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -546,7 +546,7 @@ a[data-lightbox]:hover::before {
     margin-left: -25px;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
-    color: #FFF;
+    color: #000;
     font-weight: 100;
     z-index: 1;
     position: absolute;
@@ -579,7 +579,7 @@ a[data-lightbox]:hover img {
 
 .lightbox-caption {
     padding: 20px;
-    color: #FFF;
+    color: #000;
     background: rgba(0, 0, 0, .5);
     position: absolute;
     left: 15px;
@@ -588,7 +588,7 @@ a[data-lightbox]:hover img {
 }
 
 .close-lightbox {
-    color: #FFF;
+    color: #000;
     font-size: 30px;
     position: absolute;
     top: 20px;
@@ -605,7 +605,7 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
     opacity: 1.0;
-    color: #FFF;
+    color: #000;
 }
 
 .next-lightbox,
@@ -693,7 +693,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -736,8 +736,12 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
+.white{
+    color: #fff!important;
+}
+
+.black {
+    color: #000!important;
 }
 
 .portfolio-thumb {
@@ -776,17 +780,19 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #fff!important;
 }
+
+
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000;
 }
 
 .ltc-white {

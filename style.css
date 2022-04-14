@@ -136,6 +136,10 @@ a:hover {
     color: rgba(255, 255, 255, .6);
 }
 
+.navbar-brand{
+    height: 100px;
+}
+
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,

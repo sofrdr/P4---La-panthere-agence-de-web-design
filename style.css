@@ -288,6 +288,10 @@ a:hover {
     font-size: 32px;
 }
 
+blockquote{
+    color: #000;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;

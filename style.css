@@ -343,7 +343,19 @@ blockquote{
     
 }
 
+.navbar-toggle {
+    margin: 10px 10px 0 0;
+    border: 0px;
+}
 
+.navbar-toggle:hover {
+    background: transparent!important;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: rgba(0, 0, 0, .5);
+    width: 26px;
+}
 
 .nav-invert .navbar .nav {
     float: left;

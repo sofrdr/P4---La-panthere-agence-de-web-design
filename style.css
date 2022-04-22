@@ -835,11 +835,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-web-la-panthere-presentation.jpg");
+    background-image: url("img/agence-web-la-panthere-presentation.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/agence-web-la-panthere-maquette-site.jpg");
+    background-image: url("img/agence-web-la-panthere-maquette-site.webp");
 }
 
 @media (max-width: 1024px) {
